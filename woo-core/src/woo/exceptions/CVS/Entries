@@ -1,0 +1,19 @@
+/BadEntryException.java/1.1/Sat Oct  3 16:56:05 2020//
+/ImportFileException.java/1.1/Sat Oct  3 16:56:05 2020//
+/MissingFileAssociationException.java/1.1/Sat Oct  3 16:56:05 2020//
+/UnavailableFileException.java/1.1/Sat Oct  3 16:56:05 2020//
+/ClientAlreadyExistsException.java/1.1/Sat Nov  7 12:54:16 2020//
+/ClientNotFoundException.java/1.1/Sat Nov  7 13:02:48 2020//
+/InvalidNumberOfDaysException.java/1.1/Sat Nov  7 14:38:50 2020//
+/FailedToChangePriceException.java/1.1/Thu Nov 26 11:03:09 2020//
+/ProductKeyAlreadyExistsException.java/1.1/Thu Nov 26 11:49:20 2020//
+/ProductKeyDoesNotExistException.java/1.1/Thu Nov 26 11:26:07 2020//
+/ServiceLevelDoesNotExistException.java/1.1/Wed Nov 25 12:24:03 2020//
+/ServiceTypeDoesNotExistException.java/1.1/Wed Nov 25 12:22:30 2020//
+/SupplierDoesNotExistException.java/1.1/Wed Nov 25 12:21:55 2020//
+/NotEnoughExistingAmountException.java/1.1/Sat Nov 28 13:36:33 2020//
+/SupplierKeyAlreadyExistsException.java/1.1/Sun Nov 29 14:56:59 2020//
+/SupplierDoesNotHaveProductException.java/1.1/Sun Dec  6 12:33:43 2020//
+/SupplierIsNotAvailableException.java/1.1/Sun Dec  6 12:33:35 2020//
+/TransactionKeyDoesNotExistException.java/1.1/Mon Dec  7 12:40:16 2020//
+D
